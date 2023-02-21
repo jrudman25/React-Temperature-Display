@@ -1,0 +1,33 @@
+/*
+ * CSS for the Display component
+ */
+
+.Display {
+    background-color: orange;
+}
+
+.SliderContainer {
+    position: absolute;
+    top: 10%;
+    height: 70%;
+    width: 100%;
+    alignment: center;
+}
+
+p {
+    position: absolute;
+    width: 50%;
+    text-align: center;
+}
+
+#max {
+    top: 0%;
+}
+
+#min {
+    top: 80%;
+}
+
+#scale {
+    top: 90%;
+}

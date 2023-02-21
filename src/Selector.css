@@ -1,0 +1,50 @@
+/*
+ * Selector component CSS code
+ */
+
+.Selector {
+    background-color: orange;
+}
+
+select, option {
+    background-color: maroon;
+    color: white;
+}
+
+.Selector #min {
+    width: 32%;
+}
+
+.Selector #current {
+    width: 32.4%;
+}
+
+.Selector #max {
+    width: 32%;
+}
+
+.Selector select {
+    width: 100%;
+}
+
+.Selector select option {
+    text-align: center;
+}
+
+.Selector .group {
+    display: inline-block;
+    width: 33.3%;
+}
+
+.Selector .group label {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.Selector .group input {
+    margin: 1%;
+    display: inline-block;
+    width: 95%;
+    text-align: right;
+}
